@@ -1,4 +1,10 @@
-<img src='images/picture01.jpg' width=300 height=200> </img>
+
+​
+
+
+
+![header](https://capsule-render.vercel.app/api?type=egg&color=auto&height=300&section=header&text=깃허브%20특강&fontSize=90)
+
 
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=Sloan0031)](https://github.com/Sloan0031)
 
@@ -13,12 +19,6 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)
 ![Serverless](https://img.shields.io/badge/-Serverless-FD5750?style=flat-square&logo=Serverless&logoColor=magenta)
 ![MariaDB](https://img.shields.io/badge/-MariaDB-1F305F?style=flat-square&logo=mariadb&logoColor=white)
-​
-
-
-
-![header](https://capsule-render.vercel.app/api?type=egg&color=auto&height=300&section=header&text=깃허브%20특강&fontSize=90)
-
 
 # Hi there 👋
 ## Hi there 👋
