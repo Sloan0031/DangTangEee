@@ -1,10 +1,10 @@
 <img src='images/picture01.jpg' width=300 height=200> </img>
 
-[![*'s github stats](https://github-readme-stats.vercel.app/api?username=DangtangEee)](https://github.com/DangtangEee)
+[![*'s github stats](https://github-readme-stats.vercel.app/api?username=Sloan0031)](https://github.com/Sloan0031)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DangtangEee)](https://github.com/DangtangEee/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sloan0031)](https://github.com/Sloan0031/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DangtangEee&layout=compact)](https://github.com/DangtangEee/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sloan0031&layout=compact)](https://github.com/Sloan0031/github-readme-stats)
 
 
 ![C](https://img.shields.io/badge/-C-123456?style=flat-square&logo=C&logoColor=black)
