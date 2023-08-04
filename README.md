@@ -5,3 +5,6 @@
 **bold**
 *italic*
 ~~strikethrouh~~
+:smirk::joy:
+:rage:
+<br> 개행 문자
